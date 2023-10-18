@@ -4,6 +4,8 @@
     <a href="https://www.linkedin.com/in/filip-smoczkiewicz-a195a5288/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/> 
     </a>
+    <a href="mailto:fsmoczkiewicz@icloud.com"/>
+      <img src="https://img.shields.io/badge/Email-787878?style=for-the-badge&logo=iCloud&logoColor=white" alt="Mail Contact Badge"/>
     <!-- <a href="portfolio-placerholder"> 
       <img src="empty" alt="Portfolio Badge"/> 
     </a> -->

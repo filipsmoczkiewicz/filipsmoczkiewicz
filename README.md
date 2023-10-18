@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/106594883?v=4" width="100"/>
+  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e478cqqcqpochmbywekz0fo8b26ipx6tjfhm0nx3po4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/filip-smoczkiewicz-a195a5288/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/> 
@@ -14,7 +14,26 @@
   <h1>hey there 👋🏼</h1>
 </div>
 
+---
 
+### 👨‍💻 I'm a Frond-end Web Developer based in Warsaw, Poland.
+
+---
+
+### 🛠️ Languages & tools: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+--- 
+
+### 🔥 My Stats: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipsmoczkiewicz&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipsmoczkiewicz&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **filipsmoczkiewicz/filipsmoczkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

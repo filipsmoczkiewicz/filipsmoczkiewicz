@@ -23,6 +23,7 @@
 I'm passionate about design and general look and feel of everything around me.  
 I pay particular attention to any website and app UI and as such I'm learning  
 how to create the most user-friendly, responsive and beautiful webpages. 
+Currently I'm working through The Odin Project's Full Stack JavaScript Course. 
 
 ---
 

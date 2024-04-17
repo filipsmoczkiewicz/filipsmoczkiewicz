@@ -20,10 +20,10 @@
 
 ### My name is Filip and I'm a Frond-end Web Developer 👨‍💻 based in Warsaw, Poland.
 
-I'm passionate about design and general look and feel of everything around me.  
-I pay particular attention to any website and app UI and as such I'm learning  
-how to create the most user-friendly, responsive and beautiful webpages. 
-Currently I'm working through The Odin Project's Full Stack JavaScript Course. 
+I have a strong passion for design and am particularly enthusiastic about creating stunning, user-friendly websites. 
+I'm deeply interested in the dynamic animations and overall feel of webpages.
+My focus is on developing skills in JavaScript, especially through React and Next.js, while also exploring animation and 3D design. 
+
 
 ---
 
